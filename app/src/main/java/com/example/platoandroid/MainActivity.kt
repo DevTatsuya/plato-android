@@ -99,6 +99,15 @@ class MainActivity : ComponentActivity() {
              * text that follows it is a comment. This text won't run like code,
              * it's just so you can leave helpful notes like this one :)
              */
+            Text(text="Hello World")
+            Button(onClick={/*TODO*/}){
+              Text(text="Chess")
+            }
+
+
+
+            )
+
             // YOUR TEST AREA vvv
 
             // ^^^^^ add above ^^^^^
